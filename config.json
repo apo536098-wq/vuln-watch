@@ -1,0 +1,6 @@
+{
+    "keywords": ["HyperOS", "Android RCE", "Linux Kernel", "Xiaomi"],
+    "telegram_token": "BOT_TOKENINIZI_BURAYA_YAZIN",
+    "telegram_chat_id": "CHAT_IDNIZI_BURAYA_YAZIN",
+    "check_interval_minutes": 5
+}
